@@ -1,0 +1,6 @@
+size,threads,method,time_s
+1000,16,Threads,0.126551
+1200,16,Threads,0.21643
+1500,16,Threads,0.400386
+1800,16,Threads,0.744511
+2000,16,Threads,1.10964
